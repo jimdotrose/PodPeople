@@ -22,7 +22,7 @@
 		1F8D10AA187F78D3002CB3EE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F8D1089187F78D3002CB3EE /* UIKit.framework */; };
 		1F8D10B2187F78D3002CB3EE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1F8D10B0187F78D3002CB3EE /* InfoPlist.strings */; };
 		1F8D10B4187F78D3002CB3EE /* PodPeopleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F8D10B3187F78D3002CB3EE /* PodPeopleTests.m */; };
-		210EE9706B35422090C6ADF6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 81ECEEC63B7246E09EC6CC8D /* libPods.a */; };
+		210EE9706B35422090C6ADF6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 81ECEEC63B7246E09EC6CC8D /* libPods.a */; settings = {ATTRIBUTES = (Required, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
